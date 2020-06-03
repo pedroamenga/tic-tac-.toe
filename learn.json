@@ -5,6 +5,7 @@
 	"translations": ["es", "us"],
 	"video-id": "https://www.youtube.com/watch?v=MQonrbY8Ezg&list=PLx0T51ydRO_7qabdLlT69keo68WmbXkrB",
 	"solution": "https://bitbucket.org/codingacademy/tictactoe-react",
+	"preview": "",
 	"difficulty": "easy",
 	"syntax": "react.js",
 	"technologies": ["react.js", "javascript"],
