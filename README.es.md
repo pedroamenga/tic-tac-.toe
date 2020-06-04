@@ -2,11 +2,11 @@
 
 Es hora de empezar a construir cosas geniales, ¡codifiquemos nuestro primer juego!
 
-<p align="center"><img height="300" src="https://projects.breatheco.de/json?slug=tictactoe-react&preview" /></p>
+![Preview for tictactoe](https://github.com/breatheco-de/exercise-tictactoe-react/blob/master/preview.gif?raw=true)
 
 ## 📝 Instrucciones
 
-Crea un tictactoe en React.js al igual que [este](https://projects.breatheco.de/json?slug=tictactoe-react&preview). Recuerda seguir el flujo de trabajo recomendado para comenzar la codificación:
+Crea un tictactoe en React.js al igual que [este](https://github.com/breatheco-de/exercise-tictactoe-react/blob/master/preview.gif?raw=true). Recuerda seguir el flujo de trabajo recomendado para comenzar la codificación:
 
 1. Diseña tu sitemap: ¿Cuántas páginas / vistas?
 2. Diseñando tu estructura (wireframe): ¿Qué componentes y dónde?
