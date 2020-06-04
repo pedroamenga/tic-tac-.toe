@@ -2,11 +2,11 @@
 
 Time to start building cool stuff, let's code our first game!
 
-!(TicTacToe Preview)[https://projects.breatheco.de/json?slug=tictactoe-react&preview]
+![TicTacToe Preview](https://github.com/breatheco-de/exercise-tictactoe-react/blob/master/preview.gif?raw=true)
 
 ## 📝 Instructions
 
-Create a Tictactoe in React.js just like [this one](https://projects.breatheco.de/json?slug=tictactoe-react&preview). Remember to follow the recommended workflow to start coding:
+Create a Tictactoe in React.js just like [this one](https://github.com/breatheco-de/exercise-tictactoe-react/blob/master/preview.gif?raw=true). Remember to follow the recommended workflow to start coding:
 
 1. Design your sitemap: How many pages/views?
 2. Designing your wireframe: What components and where?
