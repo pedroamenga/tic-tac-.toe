@@ -4,6 +4,18 @@ Time to start building cool stuff, let's code our first game!
 
 ![TicTacToe Preview](https://github.com/breatheco-de/exercise-tictactoe-react/blob/master/preview.gif?raw=true)
 
+## 🌱  How to start this project
+
+Do not clone this repository.
+
+The first step to start coding is cloning the [react.js boilerplate](https://github.com/4GeeksAcademy/react-hello) on your local computer or opening it using gitpod.
+
+a) If using Gitpod you can clone the boilerplate by [clicking here](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello).
+
+b) If working locally type the following command from your command line: `$ git clone https://github.com/4GeeksAcademy/react-hello`.
+
+💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+
 ## 📝 Instructions
 
 Create a Tictactoe in React.js just like [this one](https://github.com/breatheco-de/exercise-tictactoe-react/blob/master/preview.gif?raw=true). Remember to follow the recommended workflow to start coding:
