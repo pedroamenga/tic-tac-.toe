@@ -6,7 +6,7 @@ Es hora de empezar a construir cosas geniales, ¡codifiquemos nuestro primer jue
 
 ## 🌱  Cómo iniciar este proyecto
 
- El primer paso para comenzar a codificar es clonar el [react.js boilerplate](https://github.com/4GeeksAcademy/react-hello) en tu compjutador local o con Gitpod.
+ El primer paso para comenzar a codificar es clonar el [react.js boilerplate](https://github.com/4GeeksAcademy/react-hello) en tu computador local o con Gitpod.
 
 a) Si usas Gitpod (recomendado) puedes clonar el boilerplate [clic aquí](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello).
 
