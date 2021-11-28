@@ -23,10 +23,10 @@ Create a Tictactoe in React.js just like [this one](https://github.com/breatheco
 1. Design your sitemap: How many pages/views?
 2. Designing your wireframe: What components and where?
 3. Start coding your components only rendering "Hello world" on each of them (to make sure they work).
-4. Create a list of all the possible user and system interactions (events) that occure during runtime (for example: The user clicks on a button to start the game)
+4. Create a list of all the possible user and system interactions (events) that occurs during runtime (for example: The user clicks on a button to start the game)
 6. Create a javascript functions that will handle each of those events.
 7. `Console.log` on each of those funtions to make sure they are being called.
-9. Continue... whatch the video if you have any other doubts.
+9. Continue... watch the video if you have any other doubts.
 
 ### Concepts you wil learn:
 
