@@ -28,7 +28,7 @@ Create a Tictactoe in React.js just like [this one](https://github.com/breatheco
 7. `Console.log` on each of those funtions to make sure they are being called.
 9. Continue... watch the video if you have any other doubts.
 
-### Concepts you wil learn:
+### Concepts you will learn:
 
 - State of the components (global variables)
 - Props
