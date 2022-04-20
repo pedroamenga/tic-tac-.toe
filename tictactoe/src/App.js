@@ -10,9 +10,9 @@ class App extends Component {
     super();
     this.state = {
       gameBoard: [
+        ' ', 'x', ' ',
         ' ', ' ', ' ',
-        ' ', ' ', ' ',
-        ' ', ' ', ' '
+        ' ', ' x', ' '
       ], 
       turn: 'X',
       winner: null
@@ -32,7 +32,7 @@ class App extends Component {
       ], 
       turn: 'X',
       winner: null
-    }
+    })
   }
   render(){
     return (
