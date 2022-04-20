@@ -5,7 +5,6 @@
     background: lightslategray;
     border: 8px solid black;
     display: inline-block;
-    float: left;
     text-align: center;
     line-height: 150px;
 }
